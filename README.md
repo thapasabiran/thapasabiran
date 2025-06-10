@@ -1,13 +1,14 @@
 # Hi there, I'm Sabiran Thapa 👋
+I'm a results-driven Full Stack Developer with a passion for building robust web and mobile applications. With over 2 years of professional experience in the .NET ecosystem and mobile development, I've recently complemented my skills with a postgraduate certificate in Applied AI Solutions.
 
-I'm a passionate Full Stack Developer with a recent specialization in Applied AI. I enjoy building efficient and user-friendly web and mobile applications, and I'm always eager to explore new technologies to solve real-world problems.
+I thrive on solving complex problems and am constantly exploring new technologies. My goal is to build efficient, scalable, and user-friendly software that makes an impact.
 
 ---
 
-### 🚀 Currently:
-* Deepening my knowledge in Natural Language Processing and LLM fine-tuning.
-* Contributing to projects involving Salesforce (Apex, LWC) and Flutter during my co-op.
-* Always on the lookout for exciting challenges in software and AI development!
+### 🌱 What I'm Currently Focused On
+* At Work: Gaining hands-on experience as a Salesforce Developer Co-op at Eyeo, working with Apex, LWC, and Flows.
+* Personal Project: Building a secure, real-time End-to-End Encrypted (E2EE) Chat Application using Flutter to deepen my mobile and security expertise.
+# Learning: Continuously exploring advanced concepts in AI/ML and modern software architecture patterns.
 
 ---
 
@@ -19,10 +20,6 @@ I'm a passionate Full Stack Developer with a recent specialization in Applied AI
 **AI/ML:** LLM Fine-tuning, Scikit-learn, Pandas, NumPy, TensorFlow/Keras (Basic)
 **Databases:** MS SQL Server, MySQL, MongoDB, PostgreSQL
 **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio, Docker (Basic), Azure (Basic), App Center
-
-_(You can replace the list above with the skill badges as shown previously for a more visual look)_
-
----
 
 ### 🌟 Highlighted Projects:
 
