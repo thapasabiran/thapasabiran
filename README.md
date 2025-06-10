@@ -27,13 +27,6 @@ _(You can replace the list above with the skill badges as shown previously for a
 ### 🌟 Highlighted Projects:
 
 * 🧠 **[LLM Multimodal Fine-Tuning Project Name]((link-to-repo-if-public))**: An academic project focused on fine-tuning the Idifac model for image-to-text generation using a custom PDF-extracted dataset. *(Python, PyMuPDF, Pandas)*
-* 📱 **[Ecom Flutter App](https://github.com/thapasabiran/Ecom_flutter_app_Getx)**: A comprehensive e-commerce mobile application built with Flutter and GetX.
-* 🌐 **[Personal Portfolio (React)](https://github.com/thapasabiran/portfolio_webapp_react)**: My dynamic personal portfolio built with React.
-* 💬 **[Flutter Firebase Chat App](https://github.com/thapasabiran/chat_app_flutter_firebase)**: A real-time chat application using Flutter and Firebase.
-
-➡️ _Check out my other repositories for more examples of my work!_
-
----
 
 ### 📫 Let's Connect:
 
